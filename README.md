@@ -33,20 +33,20 @@ Each week has its own folder with a dedicated `README.md` explaining:
 | Week | Topic | Deliverable | Status |
 |------|-------|-------------|--------|
 | [01](./week-01-setup/) | Setup & Programming Mindset | Environment checklist, first script, flowchart | ✅ |
-| [02](./week-02-syntax/) | Syntax, Variables & I/O | Five mini-programs | 🟡 |
-| [03](./week-03-project-1-number-decision-toolkit/) | **Project 1** | Number & Decision Toolkit | ⬜ |
-| [04](./week-04-collections/) | Collections & Data Organisation | Contact book & score exercises | ⬜ |
-| [05](./week-05-functions-modules/) | Functions, Modules & Clean Code | Utility package (≥6 functions) | ⬜ |
-| [06](./week-06-project-2-expense-tracker/) | **Project 2** | File-Based Expense Tracker | ⬜ |
-| [07](./week-07-oop-fundamentals/) | OOP Fundamentals | Two-class domain model | ⬜ |
-| [08](./week-08-git-collaboration/) | Git, GitHub & Collaboration | Repo with PR, issue, peer review | ⬜ |
-| [09](./week-09-project-3-public-data-explorer/) | **Project 3** | Public Data Explorer | ⬜ |
-| [10](./week-10-sql-sqlite/) | SQL & SQLite | CRUD record manager | ⬜ |
-| [11](./week-11-testing-debugging/) | Testing, Debugging & Logging | Test suite (≥8 tests) + bug log | ⬜ |
-| [12](./week-12-packaging-quality/) | Environments, Packages & Docs | Installable project + docs | ⬜ |
-| [13](./week-13-project-4-operations-manager/) | **Project 4** | Small Business Operations Manager | ⬜ |
+| 02 | Syntax, Variables & I/O | Five mini-programs | 🟡 |
+| 03 | **Project 1** | Number & Decision Toolkit | ⭕ |
+| 04 | Collections & Data Organisation | Contact book & score exercises | ⭕ |
+| 05 | Functions, Modules & Clean Code | Utility package (≥6 functions) | ⭕ |
+| 06 | **Project 2** | File-Based Expense Tracker | ⭕ |
+| 07 | OOP Fundamentals | Two-class domain model | ⭕ |
+| 08 | Git, GitHub & Collaboration | Repo with PR, issue, peer review | ⭕ |
+| 09 | **Project 3** | Public Data Explorer | ⭕ |
+| 10 | SQL & SQLite | CRUD record manager | ⭕ |
+| 11 | Testing, Debugging & Logging | Test suite (≥8 tests) + bug log | ⭕ |
+| 12 | Environments, Packages & Docs | Installable project + docs | ⭕ |
+| 13 | **Project 4** | Small Business Operations Manager | ⭕ |
 
-**Legend:** ⬜ Not started · 🟡 In progress · ✅ Completed
+**Legend:** ⭕ Not started · 🟡 In progress · ✅ Completed
 
 **Progress:** 1 / 13 weeks complete (7.7%)
 
@@ -71,7 +71,7 @@ In general:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/flexisaf-ai-native-python-beginner.git
+git clone https://github.com/chinedudeoracle/flexisaf-ai-native-python-beginner.git
 cd flexisaf-ai-native-python-beginner
 
 # Navigate to a specific week
