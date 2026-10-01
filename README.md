@@ -21,12 +21,19 @@ Each week has its own folder with a dedicated `README.md` explaining:
 
 ---
 
+## 📍 Current Status
+
+**Current stage:** Beginner (Week 1 of 13 complete, Week 2 in progress)
+**Last updated:** 2026-10-01
+
+---
+
 ## 🗂️ Weekly Submissions
 
 | Week | Topic | Deliverable | Status |
 |------|-------|-------------|--------|
-| [01](./week-01-setup/) | Setup & Programming Mindset | Environment checklist, first script, flowchart | ⬜ |
-| [02](./week-02-syntax/) | Syntax, Variables & I/O | Five mini-programs | ⬜ |
+| [01](./week-01-setup/) | Setup & Programming Mindset | Environment checklist, first script, flowchart | ✅ |
+| [02](./week-02-syntax/) | Syntax, Variables & I/O | Five mini-programs | 🟡 |
 | [03](./week-03-project-1-number-decision-toolkit/) | **Project 1** | Number & Decision Toolkit | ⬜ |
 | [04](./week-04-collections/) | Collections & Data Organisation | Contact book & score exercises | ⬜ |
 | [05](./week-05-functions-modules/) | Functions, Modules & Clean Code | Utility package (≥6 functions) | ⬜ |
@@ -40,6 +47,8 @@ Each week has its own folder with a dedicated `README.md` explaining:
 | [13](./week-13-project-4-operations-manager/) | **Project 4** | Small Business Operations Manager | ⬜ |
 
 **Legend:** ⬜ Not started · 🟡 In progress · ✅ Completed
+
+**Progress:** 1 / 13 weeks complete (7.7%)
 
 ---
 
