@@ -83,8 +83,8 @@ B02-V – Python Full Course for FREE: https://www.youtube.com/watch?v=YfnhD-4gK
 
 ## 🎥 Demo
 
-- **Part 1:** [Week 2 — Five Mini-Programs Demo (Part 1 of 2) | Chinedu Iroanyah][https://www.loom.com/share/50ccac67ccaf40be9a04c2834b7b2254](https://www.loom.com/share/50ccac67ccaf40be9a04c2834b7b2254)
-- **Part 2:** [Week 2 — Five Mini-Programs Demo (Part 2 of 2) | Chinedu Iroanyah][https://www.loom.com/share/b4d65648f3274e04b1c96b3991cee304](https://www.loom.com/share/b4d65648f3274e04b1c96b3991cee304)
+- **Part 1:** [https://www.loom.com/share/50ccac67ccaf40be9a04c2834b7b2254](https://www.loom.com/share/50ccac67ccaf40be9a04c2834b7b2254)
+- **Part 2:** [https://www.loom.com/share/b4d65648f3274e04b1c96b3991cee304](https://www.loom.com/share/b4d65648f3274e04b1c96b3991cee304)
 - **Live URL:** N/A (scripts, not deployed)
 
 ✅ Self-Check
