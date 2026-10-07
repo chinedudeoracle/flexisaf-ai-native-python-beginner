@@ -33,8 +33,8 @@ Each week has its own folder with a dedicated `README.md` explaining:
 | Week | Topic | Deliverable | Status |
 |------|-------|-------------|--------|
 | [01](./week-01-setup/) | Setup & Programming Mindset | Environment checklist, first script, flowchart | ✅ |
-| 02 | Syntax, Variables & I/O | Five mini-programs | 🟡 |
-| 03 | **Project 1** | Number & Decision Toolkit | ⭕ |
+| [02](./week-02-syntax/) | Syntax, Variables & I/O | Five mini-programs | ✅ |
+| 03 | **Project 1** | Number & Decision Toolkit | 🟡 |
 | 04 | Collections & Data Organisation | Contact book & score exercises | ⭕ |
 | 05 | Functions, Modules & Clean Code | Utility package (≥6 functions) | ⭕ |
 | 06 | **Project 2** | File-Based Expense Tracker | ⭕ |
@@ -48,7 +48,7 @@ Each week has its own folder with a dedicated `README.md` explaining:
 
 **Legend:** ⭕ Not started · 🟡 In progress · ✅ Completed
 
-**Progress:** 1 / 13 weeks complete (7.7%)
+**Progress:** 2 / 13 weeks complete (15.4%)
 
 ---
 
