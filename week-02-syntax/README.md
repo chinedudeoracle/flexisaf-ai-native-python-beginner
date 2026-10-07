@@ -62,6 +62,7 @@ then displays a formatted receipt. Demonstrates currency formatting
 Calculates simple interest and total amount from principal, annual rate,
 and time in years. Demonstrates the formula I = P × (R / 100) × T,
 currency formatting, and mixed type conversion (float for money, int for years).
+```
 
 🧠 What I Learned
 Data types matter. Using float() for money and temperature avoids
