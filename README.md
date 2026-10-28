@@ -36,8 +36,8 @@ Each week has its own folder with a dedicated `README.md` explaining:
 | [02](./week-02-syntax/) | Syntax, Variables & I/O | Five mini-programs | ✅ |
 | [03](./week-03-project-1-number-decision-toolkit/) | **Project 1** | Number & Decision Toolkit | ✅ |
 | [04](./week-04-collections/)| Collections & Data Organisation | Contact book & score exercises | ✅ |
-| 05 | Functions, Modules & Clean Code | Utility package (≥6 functions) | 🟡 |
-| 06 | **Project 2** | File-Based Expense Tracker | ⭕ |
+| [05](./week-05-functions-modules/) | Functions, Modules & Clean Code | Utility package (≥6 functions) | ✅ |
+| 06 | **Project 2** | File-Based Expense Tracker | 🟡 |
 | 07 | OOP Fundamentals | Two-class domain model | ⭕ |
 | 08 | Git, GitHub & Collaboration | Repo with PR, issue, peer review | ⭕ |
 | 09 | **Project 3** | Public Data Explorer | ⭕ |
@@ -48,7 +48,7 @@ Each week has its own folder with a dedicated `README.md` explaining:
 
 **Legend:** ⭕ Not started · 🟡 In progress · ✅ Completed
 
-**Progress:** 4 / 13 weeks complete (30.8%)
+**Progress:** 5 / 13 weeks complete (38.5%)
 
 ---
 
