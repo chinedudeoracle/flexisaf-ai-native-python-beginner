@@ -38,8 +38,8 @@ Each week has its own folder with a dedicated `README.md` explaining:
 | [04](./week-04-collections/)| Collections & Data Organisation | Contact book & score exercises | ✅ |
 | [05](./week-05-functions-modules/) | Functions, Modules & Clean Code | Utility package (≥6 functions) | ✅ |
 | [06](./week-06-project-2-expense-tracker/) | **Project 2** | File-Based Expense Tracker | ✅ |
-| 07 | OOP Fundamentals | Two-class domain model | 🟡 |
-| 08 | Git, GitHub & Collaboration | Repo with PR, issue, peer review | ⭕ |
+| [07](./week-07-oop-fundamentals/) | OOP Fundamentals | Two-class domain model | ✅ |
+| 08 | Git, GitHub & Collaboration | Repo with PR, issue, peer review | 🟡 |
 | 09 | **Project 3** | Public Data Explorer | ⭕ |
 | 10 | SQL & SQLite | CRUD record manager | ⭕ |
 | 11 | Testing, Debugging & Logging | Test suite (≥8 tests) + bug log | ⭕ |
@@ -48,7 +48,7 @@ Each week has its own folder with a dedicated `README.md` explaining:
 
 **Legend:** ⭕ Not started · 🟡 In progress · ✅ Completed
 
-**Progress:** 6 / 13 weeks complete (46.2%)
+**Progress:** 7 / 13 weeks complete (53.85%)
 
 ---
 
