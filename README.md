@@ -1,6 +1,6 @@
 # FlexiSAF AI-Native Python Internship — Beginner Stage
 
-**Intern:** [Your Full Name]
+**Intern:** Chinedu Iroanyah
 **Stage:** Beginner (4 months / 13 guided weeks)
 **Programme:** FlexiSAF AI-Native Python Programming Internship
 **AI Rule:** No AI-generated code — all code is learner-written and explained.
@@ -23,8 +23,8 @@ Each week has its own folder with a dedicated `README.md` explaining:
 
 ## 📍 Current Status
 
-**Current stage:** Beginner (Week 1 of 13 complete, Week 2 in progress)
-**Last updated:** 2026-10-01
+**Current stage:** Beginner (Week 8 of 13 complete, Week 9 in progress)
+**Last updated:** 2026-11-19
 
 ---
 
@@ -39,8 +39,8 @@ Each week has its own folder with a dedicated `README.md` explaining:
 | [05](./week-05-functions-modules/) | Functions, Modules & Clean Code | Utility package (≥6 functions) | ✅ |
 | [06](./week-06-project-2-expense-tracker/) | **Project 2** | File-Based Expense Tracker | ✅ |
 | [07](./week-07-oop-fundamentals/) | OOP Fundamentals | Two-class domain model | ✅ |
-| 08 | Git, GitHub & Collaboration | Repo with PR, issue, peer review | 🟡 |
-| 09 | **Project 3** | Public Data Explorer | ⭕ |
+| 08 | Git, GitHub & Collaboration | Repo with PR, issue, peer review | ✅ |
+| 09 | **Project 3** | Public Data Explorer | 🟡 |
 | 10 | SQL & SQLite | CRUD record manager | ⭕ |
 | 11 | Testing, Debugging & Logging | Test suite (≥8 tests) + bug log | ⭕ |
 | 12 | Environments, Packages & Docs | Installable project + docs | ⭕ |
@@ -48,7 +48,7 @@ Each week has its own folder with a dedicated `README.md` explaining:
 
 **Legend:** ⭕ Not started · 🟡 In progress · ✅ Completed
 
-**Progress:** 7 / 13 weeks complete (53.85%)
+**Progress:** 8 / 13 weeks complete (61.54%)
 
 ---
 
@@ -77,9 +77,11 @@ cd flexisaf-ai-native-python-beginner
 # Navigate to a specific week
 cd week-01-setup
 
-# (If the week uses dependencies)
-python -m venv venv
-source venv/bin/activate    # On Windows: venv\Scripts\activate
+# (Weeks 1–7 use only the standard library — no installs needed.)
+# From Week 11 onward:
+python -m venv .venv
+source .venv/bin/activate          # macOS/Linux
+.venv\Scripts\Activate.ps1         # Windows PowerShell
 pip install -r requirements.txt
 
 # Run the code
