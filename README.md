@@ -23,8 +23,8 @@ Each week has its own folder with a dedicated `README.md` explaining:
 
 ## 📍 Current Status
 
-**Current stage:** Beginner (Week 8 of 13 complete, Week 9 in progress)
-**Last updated:** 2026-11-19
+**Current stage:** Beginner (Week 9 of 13 complete, Week 10 in progress)
+**Last updated:** 2026-11-26
 
 ---
 
@@ -40,15 +40,15 @@ Each week has its own folder with a dedicated `README.md` explaining:
 | [06](./week-06-project-2-expense-tracker/) | **Project 2** | File-Based Expense Tracker | ✅ |
 | [07](./week-07-oop-fundamentals/) | OOP Fundamentals | Two-class domain model | ✅ |
 | 08 | Git, GitHub & Collaboration | Repo with PR, issue, peer review | ✅ |
-| 09 | **Project 3** | Public Data Explorer | 🟡 |
-| 10 | SQL & SQLite | CRUD record manager | ⭕ |
+| [09](./week-09-project-3-public-data-explorer/) | **Project 3** | Public Data Explorer | ✅ |
+| 10 | SQL & SQLite | CRUD record manager | 🟡 |
 | 11 | Testing, Debugging & Logging | Test suite (≥8 tests) + bug log | ⭕ |
 | 12 | Environments, Packages & Docs | Installable project + docs | ⭕ |
 | 13 | **Project 4** | Small Business Operations Manager | ⭕ |
 
 **Legend:** ⭕ Not started · 🟡 In progress · ✅ Completed
 
-**Progress:** 8 / 13 weeks complete (61.54%)
+**Progress:** 9 / 13 weeks complete (69.23%)
 
 ---
 
