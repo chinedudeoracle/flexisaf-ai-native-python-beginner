@@ -37,6 +37,11 @@ python main.py
 
 - Separation of Concerns: I split my code into api_client.py (data fetching) and main.py (user interface) to keep the logic clean and organized.
 
+## 🎥 Demo
+- **Title:** Week 9 Project 3 Public Data Explorer Demo
+- **Recording:** [https://www.loom.com/share/97b3ee8ebaa6452487067e2a02639719](https://www.loom.com/share/97b3ee8ebaa6452487067e2a02639719) 
+- **Live URL:** N/A (script, not deployed)
+
 ## 📸 Sample Output
 Welcome to FlexiSAF Library Book Search
 1. Search for a Book 
